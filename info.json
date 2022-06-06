@@ -1,0 +1,15 @@
+{
+  "email": "이메일",
+  "pw": "비번",
+  "deviceName": "디바이스이름",
+  "deviceUUID": "디바이스UUID",
+  "prefix": ".",
+  "autoAdmin": "false",
+  "openVerify": "no",
+  "useCustomCode": "no",
+  "openCustomCode": "137gjs8",
+  "banKey": "no",
+  "ipPort": "3876",
+  "klAPI": "618d29282c52b0060e1ed9294a3a94e0",
+  "klURL": "https://nefew.kr/"
+}
